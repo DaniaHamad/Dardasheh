@@ -1,5 +1,4 @@
-# dardasheh
-
+# DardashehWebAPI
 A front-end application for Dardasheh, a mobile application that connects users together and send messages to each other.
 
 # features
