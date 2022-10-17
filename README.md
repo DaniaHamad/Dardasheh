@@ -4,7 +4,11 @@ A front-end application for Dardasheh, a mobile application that connects users 
 
 # features
 
-- Create an account to save your data. (only the front-end has been made, back-end and database are yet to be made to save data)
+- Create an account to save your data. (back-end and database have been made)
+    - Register User (50% need to verify/confirm Email)
+    - Login User (DONE)
+    - Forget/Reset password (SOON)
+    - single sign-on (SSO) with Facebook or Google(SOON)
 - Build your own character and use it as an avatar. (SOON, wardrobe assets are being made)
 - Text messaging. (SOON)
 - Video calls. (SOON)
@@ -16,6 +20,8 @@ A front-end application for Dardasheh, a mobile application that connects users 
 
 - The wardrobe assets and logo are original creations ©2022 Dania Hamad. All rights reserved.
 
-# Prototype (work on progress)
+# Links (work on progress)
 
-- UI/UX prototype link: https://www.figma.com/proto/R6z8JeGWAxQiSTiWaijed1/Full-Stack-Project-%5BDardasheh%5D?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=42%3A38&show-proto-sidebar=1
+- [UI/UX prototype made in figma]( https://www.figma.com/proto/R6z8JeGWAxQiSTiWaijed1/Full-Stack-Project-%5BDardasheh%5D?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=42%3A38&show-proto-sidebar=1)
+- [Front-end Dardasheh](https://github.com/DaniaHamad/Dardasheh)
+- [Back-end Dardasheh](https://github.com/DaniaHamad/DardashehWebAPI)
